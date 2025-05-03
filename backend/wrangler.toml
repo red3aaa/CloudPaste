@@ -13,7 +13,7 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "cloudpaste-db"
-database_id = "xxxxxxxxxxxxxxxxx"
+database_id = "7bcdd6c8-d232-480a-95e5-b40f98f95ecc"
 
 # 本地开发时使用
 [env.dev]
